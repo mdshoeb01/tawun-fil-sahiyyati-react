@@ -2,7 +2,7 @@
 This is the react project for health care
 
 # masjid-react
-This is front-end app for masjid calculation project
+This is front-end app for health care project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
