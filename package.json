@@ -1,5 +1,5 @@
 {
-  "name": "Masjid",
+  "name": "Expense-management",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -114,8 +114,8 @@
       "node"
     ],
     "watchPlugins": [
-      "/home/shoeb/Documents/shoeb/tawun-fil-sahiyyati-react/node_modules/jest-watch-typeahead/filename.js",
-      "/home/shoeb/Documents/shoeb/tawun-fil-sahiyyati-react/node_modules/jest-watch-typeahead/testname.js"
+      "/home/shoeb/Documents/shoeb/expense-management-react/node_modules/jest-watch-typeahead/filename.js",
+      "/home/shoeb/Documents/shoeb/expense-management-react/node_modules/jest-watch-typeahead/testname.js"
     ]
   },
   "babel": {

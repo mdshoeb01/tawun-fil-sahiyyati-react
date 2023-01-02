@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
     return (
       <footer>
-        <p>Copyright © Mohammed Shoeb Reserved</p>
+        <p>Copyright © Venkatesh Reserved</p>
       </footer>
     )
   }

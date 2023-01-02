@@ -7,7 +7,8 @@ class Header extends Component {
     return (
       <header className = 'mt-5 '>
         <ul className = 'nav justify-content-center'>
-          <Link className = 'nav-item btn align-self-start' to = '/'>Tawun Fil Sahiyyati</Link>
+          <Link className = 'nav-item btn align-self-start' to = '/'><b>Expense Management Application</b></Link>
+          <Link className = 'nav-item btn align-self-start' to = '/'>Home</Link>
           <li className = 'nav-item dropdown'>
             <button className = 'nav-link btn dropdown-toggle' data-toggle = 'dropdown' aria-haspopup = 'true' aria-expanded = 'false'>Clinics</button>
             <div className = 'dropdown-menu'>
